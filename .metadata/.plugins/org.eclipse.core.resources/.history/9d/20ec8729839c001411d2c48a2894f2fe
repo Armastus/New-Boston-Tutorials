@@ -1,0 +1,16 @@
+
+public class arrayTable {
+	public static void main (String[] args) {
+		
+		//Let's create a table. Btw, \t give 5 spaces.
+		System.out.println("Index\tValue");
+		//Now create a array table.
+		int bucky[] = {23, 67, 84, 294, 0};
+		
+		//create a for loop to go through each part of our array.
+		//Also, bucky.length will count through your array, so the 5 numbers in our array.
+		for (int counter = 0; counter < bucky.length; counter++) {
+			System.out.println(counter + "\t" + bucky[counter]);			
+		}
+	}
+}

@@ -1,0 +1,19 @@
+
+public class recursion {
+	public static void main (String[] args) {
+		fibonacci fibObject = new fibonacci();
+		factorial factObject = new factorial();
+		
+		System.out.println(factObject.fact(5));
+		
+		int index = 0;
+		//while this
+		while (true)
+		{
+			System.out.println(fibObject.fib(index));
+			//index will increment the number so that 
+			//the recursion is infinite.
+			index++;
+		}
+	}
+}

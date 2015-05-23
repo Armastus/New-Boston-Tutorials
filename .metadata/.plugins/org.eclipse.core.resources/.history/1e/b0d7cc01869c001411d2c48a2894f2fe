@@ -1,0 +1,9 @@
+
+public class MultipleClasses1 {
+	public static void main (String[] args) {
+		//Call the other class.
+		MultipleClasses2 MC2Object = new MultipleClasses2 ();
+		//Call one of the methods, in this case we can only call one method.
+		MC2Object.simpleMessage(null);
+	}
+}

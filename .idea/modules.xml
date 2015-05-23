@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract and Concrete Classes/Abstract and Concrete Classes.iml" filepath="$PROJECT_DIR$/Abstract and Concrete Classes/Abstract and Concrete Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList Program/ArrayList Program.iml" filepath="$PROJECT_DIR$/ArrayList Program/ArrayList Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class &amp; Array to Hold Objects/Class &amp; Array to Hold Objects.iml" filepath="$PROJECT_DIR$/Class &amp; Array to Hold Objects/Class &amp; Array to Hold Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common String Methods/Common String Methods.iml" filepath="$PROJECT_DIR$/Common String Methods/Common String Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creating Files/Creating Files.iml" filepath="$PROJECT_DIR$/Creating Files/Creating Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumeration/Enumeration.iml" filepath="$PROJECT_DIR$/Enumeration/Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Class/File Class.iml" filepath="$PROJECT_DIR$/File Class/File Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finding Characters &amp; Subcharacters/Finding Characters &amp; Subcharacters.iml" filepath="$PROJECT_DIR$/Finding Characters &amp; Subcharacters/Finding Characters &amp; Subcharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Head First Exercise 1/Head First Exercise 1.iml" filepath="$PROJECT_DIR$/Head First Exercise 1/Head First Exercise 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mentor Exercise/Mentor Exercise.iml" filepath="$PROJECT_DIR$/Mentor Exercise/Mentor Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/More on Strings/More on Strings.iml" filepath="$PROJECT_DIR$/More on Strings/More on Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewBostonTutorials/NewBostonTutorials.iml" filepath="$PROJECT_DIR$/NewBostonTutorials/NewBostonTutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PC3/PC3.iml" filepath="$PROJECT_DIR$/PC3/PC3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PC4/PC4.iml" filepath="$PROJECT_DIR$/PC4/PC4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphic Arguments/Polymorphic Arguments.iml" filepath="$PROJECT_DIR$/Polymorphic Arguments/Polymorphic Arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Read in a File and do stuff/Read in a File and do stuff.iml" filepath="$PROJECT_DIR$/Read in a File and do stuff/Read in a File and do stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reading from Files/Reading from Files.iml" filepath="$PROJECT_DIR$/Reading from Files/Reading from Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shubha! Q1/Shubha! Q1.iml" filepath="$PROJECT_DIR$/Shubha! Q1/Shubha! Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simply Polymorphic Program/Simply Polymorphic Program.iml" filepath="$PROJECT_DIR$/Simply Polymorphic Program/Simply Polymorphic Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Writing to Files/Writing to Files.iml" filepath="$PROJECT_DIR$/Writing to Files/Writing to Files.iml" />
+    </modules>
+  </component>
+</project>
