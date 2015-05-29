@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 
 public class stringManip {
-	String fileName = "C:\\Users\\David\\Desktop\\iTunes.txt";
+	String fileName = "C:\\Users\\David\\IdeaProjects\\New Boston Tutorials\\Reading from Files\\Hi.txt";
 	String line;
 	//int numberOfLines = 0;
 	//int y = 0;

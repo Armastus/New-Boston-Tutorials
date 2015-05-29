@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class readFile {
 	private Scanner x;
 	//Open File
-	String fileName = "C:\\Users\\David\\Desktop\\iTunes.txt";
+	String fileName = "C:\\Users\\David\\IdeaProjects\\New Boston Tutorials\\Reading from Files\\Hi.txt";
 	//Reference one line at a time.
 	String line;
 	
