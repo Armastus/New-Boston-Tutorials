@@ -8,7 +8,7 @@ public class createFile {
 		
 		public void openFile(){
 			try{
-				makeFile = new Formatter("C:\\Users\\David\\Desktop\\Hi.txt");
+				makeFile = new Formatter("C:\\Users\\David\\Desktop\\NewFile.txt");
 				System.out.println("File created!");
 			}
 			catch (Exception e){
